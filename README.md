@@ -3,15 +3,15 @@ Provisioning of an AWS Infrastructure Stack with RDS MySQL Database, EC2 Compute
 ## RDS- Relational Database Service
 RDS stands for Relational Database Service. It is a managed database service offered by Amazon Web Services (AWS) that provides easy setup, scaling, and management of relational databases such as MySQL, PostgreSQL, SQL Server, and Oracle.
 ## Key benefits of using RDS include:
-1] Ease of Administration: RDS automates administrative tasks such as hardware provisioning, database setup, patching, and backups.
+1] (Ease of Administration): RDS automates administrative tasks such as hardware provisioning, database setup, patching, and backups.
 
-2] Scalability: It allows you to easily scale your database instance vertically or horizontally based on your application's needs.
+2] (Scalability): It allows you to easily scale your database instance vertically or horizontally based on your application's needs.
 
-3] High Availability: RDS offers features like automated backups, multi-AZ deployments, and read replicas to ensure high availability and fault tolerance.
+3] (High Availability): RDS offers features like automated backups, multi-AZ deployments, and read replicas to ensure high availability and fault tolerance.
 
-4] Security: RDS provides security features such as encryption at rest and in transit, network isolation, and IAM integration for access control.
+4] (Security): RDS provides security features such as encryption at rest and in transit, network isolation, and IAM integration for access control.
 
-5] Cost-Effectiveness: It offers a pay-as-you-go pricing model, allowing you to pay only for the resources you use without any upfront costs.
+5] (Cost-Effectiveness): It offers a pay-as-you-go pricing model, allowing you to pay only for the resources you use without any upfront costs.
 
 # Step-1
 
