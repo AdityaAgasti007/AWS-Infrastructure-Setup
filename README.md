@@ -1,5 +1,10 @@
 # AWS-Infrastructure-Setup
 Provisioning of an AWS Infrastructure Stack with RDS MySQL Database, EC2 Compute Instance, and Secured Data Access via IAM Roles 
+# Architecture Of Project 
+
+![Architecture-Of-Project](https://github.com/AdityaAgasti07/AWS-Infrastructure-Setup/assets/159541012/698afe46-70bd-4a3b-a2f6-18d2e6621803)
+
+
 ## RDS- Relational Database Service
 RDS stands for Relational Database Service. It is a managed database service offered by Amazon Web Services (AWS) that provides easy setup, scaling, and management of relational databases such as MySQL, PostgreSQL, SQL Server, and Oracle.
 ## Key benefits of using RDS include:
